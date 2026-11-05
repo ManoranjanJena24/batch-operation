@@ -1,5 +1,7 @@
 # Batch Operations – Listing, Search & Pagination
 
+![image alt](https://github.com/ManoranjanJena24/batch-operation/blob/ef659bdc81d4bc6d60e65b36e0323c66440de7cb/demo-image.png)
+
 A React + Express assessment project for listing training batches with server-side search, filtering and pagination. Batch records are intentionally stored in a backend JavaScript array; no database is used, as required.
 
 ## Features
